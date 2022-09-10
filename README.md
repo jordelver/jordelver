@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👨‍💻 I'm a Ruby and Rails programmer with an interest in Elixir and Rust. 
+
+🗓️ Check out my [weeknotes](https://weeknotes.elver.me)
+
+✍️ Find my personal website at [jordanelver.co.uk](https://jordanelver.co.uk)
+
 <!--
 **jordelver/jordelver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
