@@ -2,6 +2,8 @@
 
 👨‍💻 I'm a Ruby and Rails programmer with an interest in Elixir and Rust. 
 
+🌐 [elver.me](https://elver.me)
+
 🗓️ Check out my [weeknotes](https://weeknotes.elver.me)
 
 ✍️ Find my personal website at [jordanelver.co.uk](https://jordanelver.co.uk)
