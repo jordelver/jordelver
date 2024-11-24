@@ -8,6 +8,10 @@
 
 ✍️ Find my personal website at [jordanelver.co.uk](https://jordanelver.co.uk)
 
+Mastodon: [@jordelver@hachyderm.io](https://hachyderm.io/@jordelver)
+
+Bluesky: [@jordelver.bsky.social](https://bsky.app/profile/jordelver.bsky.social)
+
 <!--
 **jordelver/jordelver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
